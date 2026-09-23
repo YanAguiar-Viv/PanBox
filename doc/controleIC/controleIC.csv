@@ -2,4 +2,5 @@ ID,Nome,Categoria,Versão,Descrição,Responsável,Data
 IC-DPP-001,Plano de Projeto,Documentação,v1.0.0,Criação do Plano de Projeto do aplicativo GBibliA,Gerência de Projeto,26/ago
 IC-DR-001,Documento de Requisito,Documentação,v1.0.0,Criação do Documento de Requisito,"Gerência de Projeto/Equipe de Desenvolvimento/Analista de Requisitos",08/set
 IC-DPP-002,Plano de Projeto,Documentação,v1.1.0,Corrigindo Dados,Gerência de Projeto,22/ago
+IC-DRE-001,Documento de Requisito Específico,Documentação,v1.0.0,Criação do Documento de Req. Específico,Analista de Requisito/Gerência de Projeto
 
